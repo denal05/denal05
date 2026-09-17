@@ -24,6 +24,8 @@ technical support, system administration, teaching, embedded systems,
 and e-commerce. That breadth helps me approach Magento problems as
 systems and business problems, not only as isolated coding tasks.
 
+[Read my Open Cover Letter and Curriculum Vitae](https://denal05.github.io/)
+
 ## Faith
 
 I am a Reformed Christian. My Christian faith shapes how I understand
