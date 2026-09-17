@@ -1,6 +1,6 @@
 # Denis Aleksandrov
 
-**Adobe Certified Professional - Adobe Commerce Developer**
+**Certified Adobe Commerce developer. Experienced project leader. A dependable go-to person for Magento. | Reformed Christian. Soli Deo gloria.**
 
 ## Hi there 👋
 I am a Magento 2 developer from North Macedonia with 6 years of
