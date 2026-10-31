@@ -11,6 +11,16 @@ My main focus is Adobe Commerce / Magento 2 backend development,
 custom modules, upgrades, checkout customization, integrations,
 Docker-based development environments, and production troubleshooting.
 
+
+## 💼 Professional Experience
+
+| 💻 IT | 📋 Project Management | 🛒 E-commerce |
+|:---:|:---:|:---:|
+| **25+ years** | **7 years** | **6 years** |
+
+🏅 **Adobe Certified Professional – Adobe Commerce Developer**  
+Technical implementation expertise combined with project delivery and an understanding of business requirements.
+
 ## Adobe Commerce
 
 Credential: Adobe Certified Professional - Adobe Commerce Developer
